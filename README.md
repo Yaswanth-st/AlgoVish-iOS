@@ -1,5 +1,3 @@
-# AlgoVish-iOS
-
 # 📱 AlgoVish – Visualizing Data Structures & Algorithms in SwiftUI
 
 **AlgoVish** is a SwiftUI-powered iOS app that helps students visually understand **Data Structures & Algorithms**. Built as part of the **Apple Swift Student Challenge 2025**, this project was born from a simple idea: _"What if DSA didn’t have to be scary?"_ 🧠💡
@@ -41,7 +39,7 @@ From hours of refactoring to fixing that *one button* that ruined *every other s
 
 ## 🎥 Demo Video
 
-📺 [Watch the full walkthrough on YouTube]([https://your-youtube-link.com](https://youtube.com/shorts/QClyYCEV6Sk?feature=share))
+📺 [Watch the walkthrough on YouTube Shorts](https://youtube.com/shorts/QClyYCEV6Sk?feature=share)
 
 ---
 
@@ -80,3 +78,4 @@ Distributed under the MIT License. See LICENSE for more info.
 
 🙌 Acknowledgements
 Big thanks to the team at Apple Innovation Studio, my fellow peer mentors, and our wonderful mentor-educators who trusted me to co-lead, even when my SwiftUI was still throwing red lines every five minutes. And of course — my batchmates who clicked a selfie every time a button changed color 📸😂
+
