@@ -41,7 +41,7 @@ From hours of refactoring to fixing that *one button* that ruined *every other s
 
 ## 🎥 Demo Video
 
-📺 [Watch the full walkthrough on YouTube](https://your-youtube-link.com)
+📺 [Watch the full walkthrough on YouTube]([https://your-youtube-link.com](https://youtube.com/shorts/QClyYCEV6Sk?feature=share))
 
 ---
 
