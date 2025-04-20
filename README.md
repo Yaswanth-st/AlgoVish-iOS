@@ -45,11 +45,11 @@ From hours of refactoring to fixing that *one button* that ruined *every other s
 
 ## 🛠 Built With
 
-- Swift 5.9
-- SwiftUI
-- Swift Package Manager (SwiftPM)
-- MVVM Architecture
-- Xcode 15
+- Swift 5.9  
+- SwiftUI  
+- Swift Package Manager (SwiftPM)  
+- MVVM Architecture  
+- Xcode 15  
 - Late night energy drinks and way too many UI experiments ☕️🎨
 
 ---
@@ -58,14 +58,14 @@ From hours of refactoring to fixing that *one button* that ruined *every other s
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/AlgoVish-iOS.git
-Open the .swiftpm project using Xcode:
+   git clone https://github.com/Yaswanth-st/AlgoVish-iOS.git
+Open the project in Xcode:
 
 bash
 Copy
 Edit
 open AlgoVish.xcodeproj
-Run the project using a Simulator or a real iOS device (iOS 16+ recommended).
+Run using an iOS simulator or real device (iOS 16+ recommended).
 
 👨‍💻 Author
 Yaswanth Senthil Kumar Thilagavathi
@@ -78,4 +78,3 @@ Distributed under the MIT License. See LICENSE for more info.
 
 🙌 Acknowledgements
 Big thanks to the team at Apple Innovation Studio, my fellow peer mentors, and our wonderful mentor-educators who trusted me to co-lead, even when my SwiftUI was still throwing red lines every five minutes. And of course — my batchmates who clicked a selfie every time a button changed color 📸😂
-
